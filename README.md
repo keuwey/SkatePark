@@ -8,11 +8,15 @@ Acesse agora o nossso [site](https://skatepark-phi.vercel.app/).
 
 ## Screenshots
 
+### NOTEBOOK
+
 <img src="./assets/print1.png" width="1500" height="506" />
+
+### MOBILE
 
 <img src="./assets/print3.jpg" width="520" height="880" />
 
-## Tecnologia utilizadas
+## Tecnologias utilizadas
 
 - HTML
 - CSS
