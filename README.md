@@ -11,3 +11,9 @@ Acesse agora o nossso [site](https://skatepark-phi.vercel.app/).
 <img src="./assets/print1.png" width="1500" height="506" />
 
 <img src="./assets/print3.jpg" width="520" height="880" />
+
+## Tecnologia utilizadas
+
+- HTML
+- CSS
+- Bootstrap
