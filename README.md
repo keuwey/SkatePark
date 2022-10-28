@@ -8,6 +8,6 @@ Acesse agora o nossso [site](https://skatepark-phi.vercel.app/).
 
 ## Screenshots
 
-<img src="./assets/print1.png" width="1800" height="806">
+<img src="./assets/print1.png" width="1500" height="506" />
 
-<img src="./assets/print2.jpg" width="620" height="1180">
+<img src="./assets/print2.jpg" width="320" height="880" />
