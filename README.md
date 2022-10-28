@@ -5,3 +5,9 @@ A Skate Park Curitiba é a maior escola de skate do brasil. Ensinamos desde cria
 ## Link
 
 Acesse agora o nossso [site](https://skatepark-phi.vercel.app/).
+
+## Screenshots
+
+![SkatePark](./assets/print1.png)
+
+![SkateParkMobile](./assets/print2.jpg)
